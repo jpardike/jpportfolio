@@ -1,0 +1,15 @@
+
+#hero-text {
+    display: block;
+    text-align: center;
+    color: rgba(226, 243, 245, 1);
+    position: absolute;
+    left: 50%;
+    top: 50%;
+  }
+  
+#hero-icon {
+    font-size: 3rem;
+    padding: 1rem;
+    color: rgba(226, 243, 245, 1);
+  }
