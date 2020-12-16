@@ -24,7 +24,6 @@ class Hero extends React.Component {
                             transition: 'opacity .6s .5s ease-out, transform .7s .5s ease-out'
                         }}>
                             <h1>Software Engineer</h1>
-                            <h4><i className="fab fa-react"  id="hero-icon"></i><i className="fab fa-bootstrap" id="hero-icon"></i><i className="fab fa-html5" id="hero-icon"></i><i className="fab fa-css3-alt" id="hero-icon"></i></h4>
                         </div>
                     </VizSensor>
                 </div>
