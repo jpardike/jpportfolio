@@ -36,7 +36,7 @@ class About extends React.Component{
                         transform: this.state.divViz ? 'translate(0%,0%)' : 'translate(0%,10%)',
                         opacity: this.state.divViz ? 1 : 0,
                         transition: 'opacity .6s 1s ease-out, transform .7s 1s ease-out'
-                    }}>Hi! My Name is Joshua Pardike and I am a front-end developer in Seattle, Washington. I started my journey as a web developer in 2018. I am self-taught and I continue to learn new things every day. Some of the source material that I use comes from Codecadamy, Free Code Camp, W3Schools, Gymnasium, a few books, and various documentation sites. I work with HTML5, CSS3, JavaScript, Bootstrap, ReactJS, Node.JS, NPM, Git, and GitHub. I enjoy making websites and I hope I can be a part of your team.</p>
+                    }}>I am a Full-Stack Software Engineer with a background in Team Management. I use my combined experiences to build user friendly web applications while maintaining an organized work flow and time management for myself and my team. I aspire to web apps that solve everyday problems, from software that can strengthen a community of people, to a server that distributes data to those in need, while continuing my path of learning new technologies.</p>
                     </div>
                     </VizSensor>
                 </div>
