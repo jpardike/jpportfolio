@@ -1,29 +1,33 @@
 {
   "files": {
-    "main.css": "/jpportfolio/static/css/main.24f97200.chunk.css",
-    "main.js": "/jpportfolio/static/js/main.cc016676.chunk.js",
-    "main.js.map": "/jpportfolio/static/js/main.cc016676.chunk.js.map",
+    "main.css": "/jpportfolio/static/css/main.791d9314.chunk.css",
+    "main.js": "/jpportfolio/static/js/main.7850d3bd.chunk.js",
+    "main.js.map": "/jpportfolio/static/js/main.7850d3bd.chunk.js.map",
     "runtime-main.js": "/jpportfolio/static/js/runtime-main.a0b1b53b.js",
     "runtime-main.js.map": "/jpportfolio/static/js/runtime-main.a0b1b53b.js.map",
     "static/css/2.2a86faee.chunk.css": "/jpportfolio/static/css/2.2a86faee.chunk.css",
     "static/js/2.383764b6.chunk.js": "/jpportfolio/static/js/2.383764b6.chunk.js",
     "static/js/2.383764b6.chunk.js.map": "/jpportfolio/static/js/2.383764b6.chunk.js.map",
     "index.html": "/jpportfolio/index.html",
-    "precache-manifest.61fb4e1169909147fa7b6ca9b4407a78.js": "/jpportfolio/precache-manifest.61fb4e1169909147fa7b6ca9b4407a78.js",
+    "precache-manifest.51074a92b241a3e6f0326c077ad9eb21.js": "/jpportfolio/precache-manifest.51074a92b241a3e6f0326c077ad9eb21.js",
     "service-worker.js": "/jpportfolio/service-worker.js",
     "static/css/2.2a86faee.chunk.css.map": "/jpportfolio/static/css/2.2a86faee.chunk.css.map",
-    "static/css/main.24f97200.chunk.css.map": "/jpportfolio/static/css/main.24f97200.chunk.css.map",
+    "static/css/main.791d9314.chunk.css.map": "/jpportfolio/static/css/main.791d9314.chunk.css.map",
     "static/js/2.383764b6.chunk.js.LICENSE.txt": "/jpportfolio/static/js/2.383764b6.chunk.js.LICENSE.txt",
     "static/media/20171209_172208_85.jpg": "/jpportfolio/static/media/20171209_172208_85.8a454973.jpg",
-    "static/media/Screenshot_2020-01-27 Josh's Guitars.png": "/jpportfolio/static/media/Screenshot_2020-01-27 Josh's Guitars.87588de9.png",
-    "static/media/Screenshot_2020-01-27 https jpardike github io.png": "/jpportfolio/static/media/Screenshot_2020-01-27 https jpardike github io.0ab022f7.png",
+    "static/media/dilectio.png": "/jpportfolio/static/media/dilectio.c5bc351e.png",
+    "static/media/dryft.png": "/jpportfolio/static/media/dryft.dfcc9cbe.png",
+    "static/media/josh-guitars.png": "/jpportfolio/static/media/josh-guitars.57bd7384.png",
+    "static/media/survey-form.png": "/jpportfolio/static/media/survey-form.e787b787.png",
+    "static/media/tianguis.png": "/jpportfolio/static/media/tianguis.c801a2df.png",
+    "static/media/toma.png": "/jpportfolio/static/media/toma.2f3674e2.png",
     "static/media/App.css": "/jpportfolio/static/media/turned-on-black-laptop-computer-on-table-2148217.6e30c328.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.a0b1b53b.js",
     "static/css/2.2a86faee.chunk.css",
     "static/js/2.383764b6.chunk.js",
-    "static/css/main.24f97200.chunk.css",
-    "static/js/main.cc016676.chunk.js"
+    "static/css/main.791d9314.chunk.css",
+    "static/js/main.7850d3bd.chunk.js"
   ]
 }
