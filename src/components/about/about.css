@@ -1,8 +1,11 @@
 #about-me {
-    background-color: rgba(14, 21, 58, 1);
+  background-color: rgba(14, 21, 58, 1);
 }
 
 .about-text {
-    color: rgba(34, 209, 238, 1);
+  color: rgba(34, 209, 238, 1);
 }
 
+.about-link:hover {
+    color: rgb(238, 34, 85);
+}

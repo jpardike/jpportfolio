@@ -1,12 +1,16 @@
 #footer {
-    background-color: rgba(14, 21, 58, 1);
+  background-color: rgba(14, 21, 58, 1);
 }
 
 footer {
-    width: 100%;
-    padding: 1rem;
-  }
+  width: 100%;
+  padding: 1rem;
+}
 
-  .footer-text {
-      color: rgba(34, 209, 238, 1);
-  }
+.footer-text {
+  color: rgba(34, 209, 238, 1);
+}
+
+.footer-link:hover {
+  color: rgb(238, 34, 85);
+}
